@@ -194,8 +194,8 @@ localStorage.setItem("talentrank_api_base", "http://127.0.0.1:8001");
 
 For collaboration or freelance implementation:
 
-- LinkedIn: `https://www.linkedin.com/in/prashantsingh-ai/`
-- Email: `prashantsingha96@gmail.com`
+- LinkedIn: `https://www.linkedin.com/in/tamilarasan-a2466b274/`
+- Email: `tamilarsan538@gmail.com`
 
 ---
 
